@@ -1,11 +1,11 @@
   Hi, I’m Luke.
-  I’m looking to expand my knowledge of game development and improve the quality of work I produce.
-  I’m currently studying in my third year of university programming 3D games and optimising inefficient code.
-  I’m hoping to collaborate on the development of a commercial game.
+  I’m currently studying in my master's year of university building up my dissertation and my PS5 group project.
+  My dissertation is on utilising Vulkan's GPU capabilities to accelerate procedural grass rendering.
+
   
   How to reach me:
+-   email    : lukehibbertgamedev@gmail.com
 -   instagram: @ lukehibbert.02
--   twitter  : @ _LukeGameDev
 -   discord  : @ lukulelee#7320
 
 <!---
