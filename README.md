@@ -1,12 +1,15 @@
   Hi, I’m Luke.
-  I’m currently studying in my master's year of university building up my dissertation and my PS5 group project.
-  My dissertation is on utilising Vulkan's GPU capabilities to accelerate procedural grass rendering.
+  
+  I'm a Master's graduate in Computer Science for Games and the co-founder of Trajectile Interactive. 
 
+  Wishlist Racecar Crashers today! 
+  
+  https://store.playstation.com/en-gb/concept/10015689
   
   How to reach me:
 -   email    : lukehibbertgamedev@gmail.com
--   instagram: @ lukehibbert.02
--   discord  : @ lukulelee#7320
+-   instagram: @lukehibbert02
+-   discord  : lukehibbert
 
 <!---
 lukehibbertgamedev/lukehibbertgamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
